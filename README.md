@@ -2,7 +2,7 @@
 
 Welcome to the Github page for Data for Wellbeing, your essential guide where artificial intelligence (AI) and data science meets health outcomes and health disparities. My mission is to bring you the latest advancements, insights, and real-world applications in Data Science and AI that are improving health outcomes and tackling disparities across communities.🌍💡
 
-## Newsletter's Author 🖋️
+## Page's Author 🖋️
 Kimberly Deas, the author of this newsletter is a Ph.D. candidate in Healthcare Informatics at Rutgers University (Class of 2024). Her dissertation research is a dedication to leveraging AI and Machine Learning to improve the health outcomes for Black women with HIV and reflects a deep-seated commitment to addressing health disparities through innovative solutions. Additionally, the Kimberly's expertise extends to artificial intelligence applications in cheminformatics and computational toxicology, showcasing a broad and professional interest in the intersection of technology and science.
 
 ## Advocacy and Outreach
