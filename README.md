@@ -13,6 +13,6 @@ Understanding the power of community and representation, Kimberly is also the th
 - 🔗 Connect with me on [Linkedin](https://www.linkedin.com/in/kimberlyd-d/)
 - 🌐 Visit my [website](https://btdata.my.canva.site/kimformatics) for more on my work and social media links.
 - 💼 Interested in learning more about BlackTIDES? Follow us on Social Media 📱: Stay updated with our latest news and events.
-  - [Twitter][https://twitter.com/BlackTIDES_Data/status/1725570952358981999] 
-  - [LinkedIn][https://www.linkedin.com/company/BlackTIDESData] 
+  - [Twitter](https://twitter.com/BlackTIDES_Data/status/1725570952358981999) 
+  - [LinkedIn](https://www.linkedin.com/company/BlackTIDESData) 
 
