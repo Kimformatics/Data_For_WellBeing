@@ -12,6 +12,9 @@ Understanding the power of community and representation, Kimberly is also the th
 - 📧 Email Kimberly at [k.deas@kimformatics.com](mailto:k.deas@kimformatics.com) for collaborations or inquiries.
 - 🔗 Connect with me on [Linkedin](https://www.linkedin.com/in/kimberlyd-d/)
 - 🌐 Visit my [website](https://btdata.my.canva.site/kimformatics) for more on my work and social media links.
+- 🔗 Follow me on Threads: [https://www.threads.net/@kimformatics1](https://www.threads.net/@kimformatics1) 
+
+
 - 💼 Interested in learning more about BlackTIDES? Follow us on Social Media 📱: Stay updated with our latest news and events.
   - [Twitter](https://twitter.com/BlackTIDES_Data/status/1725570952358981999) 
   - [LinkedIn](https://www.linkedin.com/company/BlackTIDESData) 
