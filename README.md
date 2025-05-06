@@ -10,7 +10,7 @@ Understanding the power of community and representation, Kimberly is also the th
 
 ### Let's Connect
 - 📧 Email Kimberly at [k.deas@kimformatics.com](mailto:k.deas@kimformatics.com) for collaborations or inquiries.
-- 🌐 Visit my [website](https:kimformatics.com) for more on my work and social media links.
+- 🌐 Visit my [website](https://kimformatics.com) for more on my work and social media links.
 - 🔗 Follow me on Threads: [https://www.threads.net/@kimformatics1](https://www.threads.net/@kimformatics1) 
 
 
